@@ -27,7 +27,6 @@ These codes provide a solid foundation for building a simple client-server syste
 This link will show you one of the first versions in a video.
 https://screenpal.com/watch/c06O3AVEAZt
 
-![image](https://github.com/Yamilongus/Pregunta-Interactua-SICI4037-Comunicacion-de-Datos/assets/71163628/89b8ba35-9dc7-4357-9d91-b4b9c652a3a7)
 
 ![image](https://github.com/Yamilongus/Pregunta-Interactua-SICI4037-Comunicacion-de-Datos/assets/71163628/d2cb86a6-a1d7-4def-b492-ae62b398569c)
 
