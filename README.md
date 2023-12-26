@@ -33,4 +33,4 @@ User Experience: Enhance the user experience with features like progress bars, f
 Testing: Thoroughly test the codes under various conditions to ensure reliability.
 Overall:
 
-These codes provide a solid foundation for building a simple client-server system for question-based interactions. By addressing the suggested improvements, you can create a more robust, flexible, and user-friendly application.
+These codes provide a solid foundation for building a simple client-server system for question-based interactions.
